@@ -1,0 +1,8 @@
+services:
+    _defaults:
+        public: true
+
+    numero2_hubspot_forms.listener.hooks.form:
+        class: numero2\HubSpotFormsBundle\EventListener\Hooks\FormListener
+        arguments:
+            - '@request_stack'

@@ -1,0 +1,27 @@
+{
+    "name": "numero2/contao-hubspot-forms",
+    "type": "contao-bundle",
+    "description": "Send forms to HubSpot forms API",
+    "license": "LGPL-3.0+",
+    "require": {
+        "contao/core-bundle": "^4.9"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.0"
+    },
+    "conflict": {
+        "contao/core": "*",
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "extra": {
+        "contao-manager-plugin": "numero2\\HubSpotFormsBundle\\ContaoManager\\Plugin"
+    },
+    "autoload": {
+        "psr-4": {
+            "numero2\\HubSpotFormsBundle\\": "src/"
+        },
+        "classmap": [
+            "src/Resources/contao/"
+        ]
+    }
+}

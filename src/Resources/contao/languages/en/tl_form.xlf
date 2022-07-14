@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+<file datatype="php" original="src/Resources/contao/languages/en/tl_form.php" source-language="en">
+<body>
+    <!-- LEGENDS -->
+    <trans-unit id="tl_form.hubspot_legend">
+        <source>HupSpot settings></source>
+    </trans-unit>
+    <!-- FIELDS -->
+    <trans-unit id="tl_form.sendToHubspot.0">
+        <source>Send data to HubSpot</source>
+    </trans-unit>
+    <trans-unit id="tl_form.sendToHubspot.1">
+        <source>Send the submitted data to HubSpot forms API.</source>
+    </trans-unit>
+    <trans-unit id="tl_form.hubspot_portal_id.0">
+        <source>HubSpot portal id</source>
+    </trans-unit>
+    <trans-unit id="tl_form.hubspot_portal_id.1">
+        <source>The portal id is required to send the data to HubSpot.</source>
+    </trans-unit>
+    <trans-unit id="tl_form.hubspot_form_id.0">
+        <source>HubSpot form id</source>
+    </trans-unit>
+    <trans-unit id="tl_form.hubspot_form_id.1">
+        <source>The form id is required to send the data to HubSpot.</source>
+    </trans-unit>
+</body>
+</file>
+</xliff>
