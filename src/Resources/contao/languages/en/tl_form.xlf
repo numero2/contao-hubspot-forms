@@ -4,7 +4,7 @@
 <body>
     <!-- LEGENDS -->
     <trans-unit id="tl_form.hubspot_legend">
-        <source>HupSpot settings></source>
+        <source>HubSpot settings</source>
     </trans-unit>
     <!-- FIELDS -->
     <trans-unit id="tl_form.sendToHubspot.0">
@@ -14,16 +14,16 @@
         <source>Send the submitted data to HubSpot forms API.</source>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_portal_id.0">
-        <source>HubSpot portal id</source>
+        <source>HubSpot Portal ID</source>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_portal_id.1">
-        <source>The portal id is required to send the data to HubSpot.</source>
+        <source>The Portal ID is required to send the data to HubSpot.</source>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_form_id.0">
-        <source>HubSpot form id</source>
+        <source>HubSpot Form ID</source>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_form_id.1">
-        <source>The form id is required to send the data to HubSpot.</source>
+        <source>The Form ID is required to send the data to HubSpot.</source>
     </trans-unit>
 </body>
 </file>

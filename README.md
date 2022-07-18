@@ -1,4 +1,4 @@
-Contao HubSpot Froms Bundle
+Contao HubSpot Forms Bundle
 =======================
 
 [![](https://img.shields.io/packagist/v/numero2/contao-hubspot-forms.svg?style=flat-square)](https://packagist.org/packages/numero2/contao-hubspot-forms) [![](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](http://www.gnu.org/licenses/lgpl-3.0)
@@ -6,12 +6,12 @@ Contao HubSpot Froms Bundle
 About
 --
 
-Adds the possibility to send form data to HubSpot. Therefore you only have to configure poratl id and form id from HubSpot.
+Adds the possibility to send form data to HubSpot.
 
 System requirements
 --
 
-* [Contao 4](https://github.com/contao/contao)
+* [Contao 4.9 or newer](https://github.com/contao/contao)
 
 Installation
 --
@@ -22,4 +22,5 @@ Installation
 Configuration
 --
 
-Please active the "Send to HubSpot" checkbox in the form and then configure the required fields.
+Please activate the "Send to HubSpot" checkbox in the form and then configure the required fields.
+Make sure the names of the fields in your Contao form matches those on HubSpot.

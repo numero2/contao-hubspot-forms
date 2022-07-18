@@ -1,36 +1,36 @@
 <?xml version="1.0" ?>
 <xliff version="1.1">
-<file datatype="php" original="src/Resources/contao/languages/en/tl_form.php" source-language="en" target-language="de">
+<file datatype="php" original="src/Resources/contao/languages/de/tl_form.php" source-language="en" target-language="de">
 <body>
     <!-- LEGENDS -->
     <trans-unit id="tl_form.hubspot_legend">
-        <source>HupSpot-Einstellungen></source>
-        <target>HupSpot settings></target>
+        <source>HubSpot settings</source>
+        <target>HubSpot-Einstellungen</target>
     </trans-unit>
     <!-- FIELDS -->
     <trans-unit id="tl_form.sendToHubspot.0">
-        <source>Schicke Daten an HubSpot</source>
-        <target>Send data to HubSpot</target>
+        <source>Send data to HubSpot</source>
+        <target>Schicke Daten an HubSpot</target>
     </trans-unit>
     <trans-unit id="tl_form.sendToHubspot.1">
-        <source>Schicke die übertragenen Daten an HubSpot forms API.</source>
-        <target>Send the submitted data to HubSpot forms API.</target>
+        <source>Send the submitted data to HubSpot forms API.</source>
+        <target>Schicke die übertragenen Daten an HubSpot forms API.</target>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_portal_id.0">
         <source>HubSpot portal id</source>
-        <target>HubSpot portal id</target>
+        <target>HubSpot Portal ID</target>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_portal_id.1">
-        <source>Die portal id wird für die Übertragung an HubSpot benötigt.</source>
-        <target>The portal id is required to send the data to HubSpot.</target>
+        <source>The Portal ID is required to send the data to HubSpot.</source>
+        <target>Die Portal ID wird für die Übertragung an HubSpot benötigt.</target>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_form_id.0">
-        <source>HubSpot form id</source>
-        <target>HubSpot form id</target>
+        <source>HubSpot Form ID</source>
+        <target>HubSpot Form ID</target>
     </trans-unit>
     <trans-unit id="tl_form.hubspot_form_id.1">
-        <source>Die form id wird für die Übertragung an HubSpot benötigt.</source>
-        <target>The form id is required to send the data to HubSpot.</target>
+        <source>The form ID is required to send the data to HubSpot.</source>
+        <target>Die Form ID wird für die Übertragung an HubSpot benötigt.</target>
     </trans-unit>
 </body>
 </file>
