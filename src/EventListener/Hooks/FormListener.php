@@ -43,7 +43,7 @@ class FormListener {
 
 
     /**
-     * send the submitted data to hubspot if the form is configured for hubspot
+     * Send the submitted data to HubSpot if the form is configured for hubspot
      *
      * @param array $submittedData
      * @param array $formData
@@ -90,7 +90,7 @@ class FormListener {
 
 
     /**
-     * send the acutal data to hubspot
+     * Send the actual data to HubSpot
      *
      * @param string $portalId
      * @param string $formId

@@ -6,3 +6,7 @@ services:
         class: numero2\HubSpotFormsBundle\EventListener\Hooks\FormListener
         arguments:
             - '@request_stack'
+    numero2_hubspot_forms.listener.hooks.rgxp:
+        class: numero2\HubSpotFormsBundle\EventListener\Hooks\CustomRgxpListener
+        arguments:
+            - '@translator'
